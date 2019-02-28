@@ -1,0 +1,6 @@
+docker-compose.yml
+prisma.yml
+datamodel.prisma
+.idea
+package-lock.json
+node_modules
